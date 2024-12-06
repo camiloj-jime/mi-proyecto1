@@ -1,11 +1,8 @@
-/* Reset de márgenes y padding */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
-/* Fondo y fuente general */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -13,7 +10,7 @@ body {
     padding: 20px;
 }
 
-/* Título Principal */
+
 h1 {
     font-size: 36px;
     text-align: center;
@@ -21,7 +18,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-/* Subtítulos */
+
 h2 {
     font-size: 28px;
     color: #2980b9;
@@ -29,21 +26,21 @@ h2 {
     margin-bottom: 10px;
 }
 
-/* Párrafos */
+
 p {
     font-size: 16px;
     line-height: 1.5;
     margin-bottom: 15px;
 }
 
-/* Imagen */
+
 img {
     display: block;
     margin: 0 auto;
     border-radius: 10px;
 }
 
-/* Enlaces de Redes Sociales */
+
 a {
     text-decoration: none;
     color: #2980b9;
@@ -88,7 +85,7 @@ td {
     text-align: left;
 }
 
-/* Formulario de contacto */
+
 form {
     background-color: #ffffff;
     padding: 20px;
